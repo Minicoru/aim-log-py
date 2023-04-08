@@ -1,0 +1,7 @@
+README.md
+setup.py
+aim_log_py.egg-info/PKG-INFO
+aim_log_py.egg-info/SOURCES.txt
+aim_log_py.egg-info/dependency_links.txt
+aim_log_py.egg-info/requires.txt
+aim_log_py.egg-info/top_level.txt
