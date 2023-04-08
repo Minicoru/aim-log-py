@@ -1,4 +1,4 @@
-# aim-log
+# aim-log-py
 
 ## Description
 
